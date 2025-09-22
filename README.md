@@ -65,13 +65,11 @@ A simple neural network model used for classification, particularly for binary o
 
 ## Evaluation
 
-Accuracy, Precision, Recall, F1-score
+Accuracy: Represents the proportion of total correct predictions.
 
-ROC-AUC, Confusion Matrix
+Precision and Recall: Evaluate the classifier's effectiveness in detecting malicious traffic while minimizing false positives.
 
-Deployment-Ready (planned)
-
-Integrate into a real-time IDS pipeline
+F1-Score: Combines precision and recall into a single metric, offering a balanced view of the model’s overall performance.
 
 ## Results
 
